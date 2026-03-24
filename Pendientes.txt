@@ -1,0 +1,3 @@
+1. Se requiere mejorar el estilo 
+2. Agregar más juegos para mejorar los requisitos 
+3. Realizar pruebas  
