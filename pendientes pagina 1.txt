@@ -1,0 +1,1 @@
+Se investigo y se llego a la conclusion de que la mejor forma de sacar info rapida es con un webscraper en paginas distriubuidas y localizables
